@@ -1,6 +1,10 @@
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/putrisilsi213-boop/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/putrisilsi213-boop/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 # The World Today — 24 November 2026
 
-make.fun `news-image-20261124` entry: a one-page newspaper front page summing
+[make.fun](https://make.fun/bounty/news-image-20261124) `news-image-20261124` entry: a one-page newspaper front page summing
 up the world news of Tuesday 24 November 2026, drawn 100% from code.
 
 `main.py` (Python 3 stdlib only, no network) renders a 1024x1024 PNG with a
